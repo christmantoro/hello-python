@@ -12,7 +12,7 @@ Tools built and maintained by this team. Production-tested for real marketing wo
 
 | Repo | Description | Status |
 |------|-------------|--------|
-| 🔜 [meta-ads-insights](https://github.com/christmantoro/meta-ads-insights) | Pull campaign/adset/ad-level insights from Meta Marketing API into structured data | Coming Soon |
+| ✅ [meta-ads-colab](colab/meta_ads_colab.ipynb) | Pull campaign/adset/ad-level insights from Meta Marketing API — Google Colab notebook | Live |
 | 🔜 [meta-lead-pipeline](https://github.com/christmantoro/meta-lead-pipeline) | Meta Lead Ads → webhook → CRM automation pipeline | Coming Soon |
 | 🔜 [meta-ads-reporter](https://github.com/christmantoro/meta-ads-reporter) | Automated performance reports (PDF/Sheets) from Meta Ads data | Coming Soon |
 | 🔜 [meta-audience-builder](https://github.com/christmantoro/meta-audience-builder) | Custom audience & lookalike management via Python scripts | Coming Soon |

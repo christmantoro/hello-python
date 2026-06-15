@@ -12,6 +12,8 @@ Two repo types listed in README:
 - **Our Projects** — repos built and maintained by this team, linked when published
 - **Community repos** — third-party Python tools organized by category
 
+`colab/` directory holds Google Colab notebooks for direct use without a separate repo.
+
 ## Categories
 
 Eight workflow categories cover end-to-end Meta Ads use cases: API connectors, analytics/reporting, lead ads, data pipelines, budget optimization, attribution, automation, and learning resources.
